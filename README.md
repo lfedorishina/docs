@@ -8,4 +8,4 @@
   
 - [Test run for 'Registration and Authorization' and 'Product Catalog' PDF](https://github.com/user-attachments/files/20029116/G10-Express%2Brun%2B2025_05_04.pdf)
 
-- [Bug report for 'Registration and Authorization' and 'Product Catalog'](https://docs.google.com/spreadsheets/d/1_sm-XO26fxVCKx4BZboDcXoCb0NK-2B2-Dju_KxSawk/edit?gid=1929524158#gid=1929524158)
+- [Bug report for 'Registration and Authorization' and 'Product Catalog']([https://docs.google.com/spreadsheets/d/1_sm-XO26fxVCKx4BZboDcXoCb0NK-2B2-Dju_KxSawk/edit?gid=1929524158#gid=1929524158](https://docs.google.com/spreadsheets/d/1SchO5G-CDHk-CklYneoR1uHdXqMgSi7WHAX1mgNq6no/edit?gid=979662789#gid=979662789))
